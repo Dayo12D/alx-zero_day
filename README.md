@@ -1,2 +1,1 @@
-My first commit
-New update readme
+My first commit update
